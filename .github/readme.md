@@ -1,4 +1,4 @@
-## Thank you for seeing me
+<h1 align="center">Thank you for seeing me👋, My <img src="https://profile-counter.glitch.me/chansee97/count.svg" alt="android" width="300" height="40"/> visitor </h1>
 
 I am a front-end developer 
 
