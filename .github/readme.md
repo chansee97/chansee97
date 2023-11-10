@@ -1,12 +1,21 @@
 # Rock Chen
 
-### 💕 爱好？
-编程，学习，哲学，钢笔字
+I'm Rock Chen 😪, a front-end developer
 
-### 🗂️ 博客？
-我的[博客](iamsee.top)会不定时更新一些我的学习笔记和生活感想，喜欢的话可以多留意，但是不能保证文章质量和频率，毕竟都是随性记录
+My [🗂️blog](iamsee.top) is where I post my work-in-progress ideas, practice notes, and explorations in my free time
 
-### ⚒️ 我的技能？
+If you have any questions, comments, or want to bounce ideas and collaborate, feel free to 📨chen.dev@foxmail.com
+
+You can find me elsewhere on the internets
+
+- [My Blog](iamsee.top)
+- [Github](https://github.com/chansee97)
+- [Bilibili](https://space.bilibili.com/3850132)
+- [Twitter](https://twitter.com/Rockchen97)
+- [掘金](https://juejin.cn/user/3826745248595550)
+- [爱发电](https://afdian.net/a/chansee97)
+
+### My skills
 <div class="skill-wrapper">
   <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
@@ -37,11 +46,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></img>
 </div>
 
+### My coding time statistics (not accurate)
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17109%26project%3D%26in%3D0)](https://codetime.dev)
 
-### 😪 我是谁？
-
-我是 Rock Chen, 一个前端码农
-
-联系我：
-- 📨 chen.dev@foxmail.com
