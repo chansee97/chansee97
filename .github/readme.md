@@ -13,7 +13,6 @@ You can find me elsewhere on the internets
 - [Bilibili](https://space.bilibili.com/3850132)
 - [Twitter](https://twitter.com/Rockchen97)
 - [掘金](https://juejin.cn/user/3826745248595550)
-- [爱发电](https://afdian.net/a/chansee97)
 
 ### My skills
 <div class="skill-wrapper">
