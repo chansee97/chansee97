@@ -2,13 +2,13 @@
 
 I'm Rock Chen 😪, a front-end developer
 
-My [🗂️blog](iamsee.top) is where I post my work-in-progress ideas, practice notes, and explorations in my free time
+My [🗂️blog](https://iamsee.top) is where I post my work-in-progress ideas, practice notes, and explorations in my free time
 
 If you have any questions, comments, or want to bounce ideas and collaborate, feel free to 📨chen.dev@foxmail.com
 
 You can find me elsewhere on the internets
 
-- [My Blog](iamsee.top)
+- [My Blog](https://iamsee.top)
 - [Github](https://github.com/chansee97)
 - [Bilibili](https://space.bilibili.com/3850132)
 - [Twitter](https://twitter.com/Rockchen97)
