@@ -27,7 +27,7 @@ You can find me from here
 ![Nest](https://img.shields.io/badge/Nest-E0234E?logo=nestjs&logoColor=fff&style=flat)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=nodedotjs&logoColor=fff&style=flat)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff&style=flat)
 
 ### Coding time statistics (not accurate)
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17109%26project%3D%26in%3D0)](https://codetime.dev)
